@@ -1,0 +1,35 @@
+Simulated Railroad Crossing 
+
+I porpose to build a simulated railroad crossing model: I will create a small figure and a mini train which people can control them to move across the railroad and crossway. Using traffic light and railings to create different situation and protect them. 
+
+Summary
+People can use the joystick to control little figure and car to moving on the street, when the train come, the light sensor will turn the traffic light in to red color, and the pedestrain railings will drop down to keep back pedestrian and cars. 
+The main goal of this project is to remind the importance of the traffic rules, everyone should following the traffic lights. And I want to remind the safty issue on the streets and railroads. The fun part is people can play around where and when people can moving on or across the street. We can also control the train and cars to create dangerous situations for the pedestrain. I want more than one person to play with it, so 2 or 3 people can control the figure, car and train at the same time.
+Component Parts
+
+
+Hardware:
+
+
+A relay, to control power to the device. (OUTPUT)
+3 or 4 light sensor, to sense the distance of the figure, car and train (INPUT)
+Model(Above ground): 1 human figure, 1 car, 1 train, 2 trafic lights, two safty railings
+6 LED: 2 red, 2 green, 2 yellow
+Model(Under ground): Megnet, motor, breadboard, arduino, wires, metal wire, wood ground.
+Software:
+Rhino and Illutrator to draw and build the model of simulated traffic world.
+Arduino
+
+
+Challenges
+I know how to build a model pretty well, but this time I need to make sure I leave holes for the mechanical part to move and connect, which need lots of accuracy to calculate. The mechanical part is the most challenging part, it will takes me most of the time and  I will have a lot of failure study models to try and findout is my idea going to work or not. I also don’t know how to control the figure, car and train by something like joystick.
+Timeline
+What parts of the project do you anticipate you will complete in each of the next 5 weeks? Your goal is to solve the scary problems as quickly as possible!
+Week 1: Write proposal. 
+Week 2: Borrow light sensor, LED, motors. Make reservation for laser cut machines, building the 3D model in rhino. Start building the physic model, try to finish the model part before Sunday. 
+Week 3: Put arduino into underground space of the model and connect each componet together. Make sure everything are able to move.
+Week 4: Find problems and solve problems.
+Week 5: Present!
+
+References and link
+https://www.youtube.com/watch?v=GcXmUjAJp-8
